@@ -30,7 +30,7 @@ proect/
 
 1. **Перейдіть у папки проєкту:**
 ```bash
-cd ~/TeamvoiCurse/Modul3/proect
+cd ~/proect
 
 ```
 
@@ -94,7 +94,7 @@ export GEMINI_API_KEY="ваш_реальний_ключ_тут"
 
 1. Перейдіть до папки проєкту та активуйте середовище:
 ```bash
-cd ~/TeamvoiCurse/Modul3/proect
+cd ~/proect
 source ai-venv/bin/activate
 
 ```
