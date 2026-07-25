@@ -44,8 +44,7 @@ source ai-venv/bin/activate
 
 3. **Встановіть залежності** (якщо вони ще не встановлені):
 ```bash
-pip install fastapi uvicorn sqlalchemy pydantic pyjwt requests google-genai tenacity
-
+ pip install -r requirements.txt
 ```
 
 
